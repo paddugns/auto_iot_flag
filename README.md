@@ -20,13 +20,20 @@ When rainfall is detected, the ESP32 immediately triggers the relay to activate 
 | 6 | Rain sensor |
 
 ## Block Diagram
+<img width="420" height="279" alt="Flag" src="https://github.com/paddugns/auto_iot_flag/blob/45e94981984c5a03c9a15e0471eae1487d380489/B-Flag.jpg" />
 
 ## Image Clip
-<a href="">Working</a><br>
+
+### Prototype
+<img width="279" height="420" alt="Flag" src="https://github.com/paddugns/auto_iot_flag/blob/45e94981984c5a03c9a15e0471eae1487d380489/I1-Flag.jpeg" />
+
+### Mobile Application
+<img width="279" height="420" alt="Flag" src="https://github.com/paddugns/auto_iot_flag/blob/45e94981984c5a03c9a15e0471eae1487d380489/I2-Flag.jpeg" />
 
 ## Video Clip
-<a href="">Hoisting</a><br>
+<a href="https://github.com/paddugns/auto_iot_flag/blob/45e94981984c5a03c9a15e0471eae1487d380489/V-Flag.mp4">Hoisting</a><br>
+<video width="279" height="420" alt="Flag" src="https://github.com/user-attachments/assets/c661b151-e265-4f5c-a563-b5731d0ab321" />
 
 ## Report
 #### You can access the report from the below link attached
-[Report.pdf](.pdf)<br>
+[Report.pdf](https://github.com/paddugns/auto_iot_flag/blob/45e94981984c5a03c9a15e0471eae1487d380489/R-Flag.pdf)<br>
